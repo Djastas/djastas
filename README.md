@@ -1,21 +1,35 @@
+# **Welcome to my GitHub page! I'm Djastas.**
 
-## Hi there 👋
+
+## ʕ ᵔᴥᵔ ʔ About Me
+I'm a game developer
 
 
-**Djastas/djastas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I work in **Unity**.
+- I enjoy doing **backend** development.
+- I like learning **complex** things.
+- I make **good visuals** in Unity3D (ShaderGraph,Post process)
+- Also, I write **music**.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-- https://www.codewars.com/users/username
+
+## 🛠 Skills
+
+#### middle level:
+- C#, Unity, Git
+
+
+#### junior level:
+- Netcode, ASP.NET, HTML, CSS, 
+
+#### basic level:
+- Python, Javascript,
+
+## 🔗 Links
+
+[![portfolio](https://img.shields.io/badge/Channel-000?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/kaktusCorp)**(Russian language only)**
+
 
 [![codewars](https://www.codewars.com/users/djastas/badges/large)](https://www.codewars.com/users/djastas) 
 
