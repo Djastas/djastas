@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+[![codewars](https://www.codewars.com/users/Djastas/badges/large)](https://www.codewars.com/Djastas/username) 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Djastas&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Djastas&theme=tokyonight&short_numbers=true)](https://git.io/streak-stats)
+
